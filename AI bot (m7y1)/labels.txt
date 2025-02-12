@@ -1,0 +1,5 @@
+0 right_up
+1 left_up
+2 right
+3 left
+4 toward
