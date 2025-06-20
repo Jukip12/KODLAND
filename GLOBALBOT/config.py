@@ -1,2 +1,2 @@
-TOKEN = "8193534525:AAEWRFuRpGO1d8wmjdX5Q1gx7o7uGN5pUpA"
+TOKEN = "-"
 DATABASE = 'Projects'
